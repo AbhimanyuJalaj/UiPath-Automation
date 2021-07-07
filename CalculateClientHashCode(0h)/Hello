@@ -1,0 +1,128 @@
+﻿Actions,WIID,Description,Type,Status,Date
+,70806767,Process Vendor Invoice,WI3,Open,2020-02-06
+,70806790,Research Client Check Copy,WI2,Open,2020-02-12
+,70806801,Research Client Check Copy,WI2,Open,2019-06-06
+,70806786,Research Client Check Copy,WI2,Open,2018-01-28
+,70806751,Generate Yearly Report for Vendor,WI4,Open,2020-04-27
+,70806744,Generate Yearly Report for Vendor,WI4,Open,2017-01-11
+,70806852,Verify Account Position,WI1,Open,2021-01-21
+,70806752,Generate Yearly Report for Vendor,WI4,Open,2020-12-17
+,70806743,Calculate Client Security Hash,WI5,Completed,2021-06-17
+,70806824,Verify Account Position,WI1,Open,2018-03-16
+,70806778,Research Client Check Copy,WI2,Open,2018-01-19
+,70806772,Process Vendor Invoice,WI3,Open,2018-12-11
+,70806740,Calculate Client Security Hash,WI5,Open,2019-01-13
+,70806844,Verify Account Position,WI1,Open,2020-06-13
+,70806764,Process Vendor Invoice,WI3,Open,2018-05-10
+,70806827,Verify Account Position,WI1,Open,2019-02-01
+,70806802,Research Client Check Copy,WI2,Open,2019-11-04
+,70806757,Generate Yearly Report for Vendor,WI4,Open,2020-05-17
+,70806770,Process Vendor Invoice,WI3,Open,2017-01-18
+,70806742,Calculate Client Security Hash,WI5,Open,2018-11-11
+,70806846,Verify Account Position,WI1,Open,2018-04-10
+,70806774,Process Vendor Invoice,WI3,Open,2018-01-08
+,70806826,Verify Account Position,WI1,Open,2020-11-09
+,70806792,Research Client Check Copy,WI2,Open,2017-11-06
+,70806763,Generate Yearly Report for Vendor,WI4,Open,2019-02-11
+,70806760,Generate Yearly Report for Vendor,WI4,Open,2018-03-09
+,70806811,Research Client Check Copy,WI2,Open,2018-12-05
+,70806729,Calculate Client Security Hash,WI5,Open,2019-11-11
+,70806840,Verify Account Position,WI1,Open,2017-05-10
+,70806756,Generate Yearly Report for Vendor,WI4,Open,2021-03-09
+,70806781,Research Client Check Copy,WI2,Open,2020-08-07
+,70806806,Research Client Check Copy,WI2,Open,2019-08-26
+,70806731,Calculate Client Security Hash,WI5,Open,2020-01-11
+,70806819,Verify Account Position,WI1,Open,2018-01-10
+,70806780,Research Client Check Copy,WI2,Open,2019-08-16
+,70806831,Verify Account Position,WI1,Open,2019-11-08
+,70806762,Generate Yearly Report for Vendor,WI4,Open,2018-11-12
+,70806834,Verify Account Position,WI1,Open,2021-03-29
+,70806830,Verify Account Position,WI1,Open,2020-06-22
+,70806746,Generate Yearly Report for Vendor,WI4,Open,2020-02-14
+,70806728,Calculate Client Security Hash,WI5,Open,2018-03-04
+,70806765,Process Vendor Invoice,WI3,Open,2017-05-26
+,70806851,Verify Account Position,WI1,Open,2018-07-19
+,70806833,Verify Account Position,WI1,Open,2018-05-19
+,70806775,Process Vendor Invoice,WI3,Open,2019-12-16
+,70806755,Generate Yearly Report for Vendor,WI4,Open,2021-02-10
+,70806785,Research Client Check Copy,WI2,Open,2019-02-15
+,70806849,Verify Account Position,WI1,Open,2020-03-15
+,70806832,Verify Account Position,WI1,Open,2017-09-19
+,70806795,Research Client Check Copy,WI2,Open,2019-08-20
+,70806804,Research Client Check Copy,WI2,Open,2019-07-24
+,70806843,Verify Account Position,WI1,Open,2020-03-01
+,70806829,Verify Account Position,WI1,Open,2019-07-07
+,70806766,Process Vendor Invoice,WI3,Open,2020-07-22
+,70806754,Generate Yearly Report for Vendor,WI4,Open,2019-02-08
+,70806737,Calculate Client Security Hash,WI5,Open,2019-01-08
+,70806734,Calculate Client Security Hash,WI5,Open,2021-01-25
+,70806825,Verify Account Position,WI1,Open,2017-03-18
+,70806793,Research Client Check Copy,WI2,Open,2020-05-11
+,70806749,Generate Yearly Report for Vendor,WI4,Open,2017-07-07
+,70806738,Calculate Client Security Hash,WI5,Open,2019-10-19
+,70806735,Calculate Client Security Hash,WI5,Open,2017-05-09
+,70806850,Verify Account Position,WI1,Open,2018-11-13
+,70806823,Verify Account Position,WI1,Open,2018-11-04
+,70806794,Research Client Check Copy,WI2,Open,2017-06-14
+,70806777,Process Vendor Invoice,WI3,Open,2017-10-25
+,70806732,Calculate Client Security Hash,WI5,Open,2017-01-29
+,70806730,Calculate Client Security Hash,WI5,Open,2018-02-12
+,70806791,Research Client Check Copy,WI2,Open,2018-07-29
+,70806809,Research Client Check Copy,WI2,Open,2017-06-15
+,70806768,Process Vendor Invoice,WI3,Open,2019-08-11
+,70806821,Verify Account Position,WI1,Open,2017-10-08
+,70806812,Research Client Check Copy,WI2,Open,2020-02-07
+,70806769,Process Vendor Invoice,WI3,Open,2021-06-10
+,70806803,Research Client Check Copy,WI2,Open,2018-05-09
+,70806787,Research Client Check Copy,WI2,Open,2018-02-14
+,70806771,Process Vendor Invoice,WI3,Open,2019-06-20
+,70806753,Generate Yearly Report for Vendor,WI4,Open,2018-02-25
+,70806814,Research Client Check Copy,WI2,Open,2018-08-24
+,70806842,Verify Account Position,WI1,Open,2017-05-15
+,70806839,Verify Account Position,WI1,Open,2021-06-29
+,70806784,Research Client Check Copy,WI2,Open,2021-04-28
+,70806805,Research Client Check Copy,WI2,Open,2017-01-03
+,70806761,Generate Yearly Report for Vendor,WI4,Open,2020-02-07
+,70806822,Verify Account Position,WI1,Open,2018-05-01
+,70806783,Research Client Check Copy,WI2,Open,2017-02-27
+,70806782,Research Client Check Copy,WI2,Open,2020-02-01
+,70806796,Research Client Check Copy,WI2,Open,2020-09-07
+,70806817,Research Client Check Copy,WI2,Open,2017-01-28
+,70806797,Research Client Check Copy,WI2,Open,2020-03-21
+,70806750,Generate Yearly Report for Vendor,WI4,Open,2020-10-17
+,70806789,Research Client Check Copy,WI2,Open,2017-04-12
+,70806807,Research Client Check Copy,WI2,Open,2017-02-08
+,70806828,Verify Account Position,WI1,Open,2018-08-05
+,70806813,Research Client Check Copy,WI2,Open,2019-11-12
+,70806799,Research Client Check Copy,WI2,Open,2021-06-22
+,70806837,Verify Account Position,WI1,Open,2017-10-18
+,70806815,Research Client Check Copy,WI2,Open,2018-05-01
+,70806841,Verify Account Position,WI1,Open,2018-05-11
+,70806776,Process Vendor Invoice,WI3,Open,2019-03-23
+,70806820,Verify Account Position,WI1,Open,2020-06-12
+,70806838,Verify Account Position,WI1,Open,2019-11-19
+,70806745,Generate Yearly Report for Vendor,WI4,Open,2020-08-25
+,70806847,Verify Account Position,WI1,Open,2017-03-04
+,70806810,Research Client Check Copy,WI2,Open,2017-03-03
+,70806845,Verify Account Position,WI1,Open,2019-01-18
+,70806748,Generate Yearly Report for Vendor,WI4,Open,2020-10-03
+,70806788,Research Client Check Copy,WI2,Open,2021-02-02
+,70806733,Calculate Client Security Hash,WI5,Open,2019-10-23
+,70806727,Calculate Client Security Hash,WI5,Open,2017-03-03
+,70806816,Research Client Check Copy,WI2,Open,2018-07-30
+,70806848,Verify Account Position,WI1,Open,2018-11-15
+,70806835,Verify Account Position,WI1,Open,2019-03-16
+,70806800,Research Client Check Copy,WI2,Open,2017-01-03
+,70806779,Research Client Check Copy,WI2,Open,2017-11-23
+,70806747,Generate Yearly Report for Vendor,WI4,Open,2019-09-24
+,70806773,Process Vendor Invoice,WI3,Open,2018-06-29
+,70806736,Calculate Client Security Hash,WI5,Open,2017-10-16
+,70806758,Generate Yearly Report for Vendor,WI4,Open,2020-09-05
+,70806741,Calculate Client Security Hash,WI5,Open,2020-06-13
+,70806836,Verify Account Position,WI1,Open,2018-07-22
+,70806759,Generate Yearly Report for Vendor,WI4,Open,2018-10-04
+,70806798,Research Client Check Copy,WI2,Open,2018-09-14
+,70806808,Research Client Check Copy,WI2,Open,2019-07-13
+,70806739,Calculate Client Security Hash,WI5,Open,2019-01-20
+,70806726,Calculate Client Security Hash,WI5,Open,2017-09-04
+,70806818,Verify Account Position,WI1,Open,2017-09-03
