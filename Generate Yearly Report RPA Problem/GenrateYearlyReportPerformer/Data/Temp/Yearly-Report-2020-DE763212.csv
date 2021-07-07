@@ -1,0 +1,9 @@
+﻿InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+716640,Professional Services,134807,26961.4,161768,RON,2017-01-04
+599730,Concierge Services,93467,18693.4,112160,USD,2017-04-11
+452862,Beverages and Catering,4659,931.8,5590.8,USD,2017-05-25
+805079,Concierge Services,244546,48909.2,293455,USD,2017-09-09
+801557,Waste management services,68663,13732.6,82395.6,EUR,2017-10-19
+290302,Various paper supplies,95488,19097.6,114586,RON,2017-10-13
+256747,Concierge Services,6174,1234.8,7408.8,CAD,2017-10-04
+119282,Concierge Services,206320,41264,247584,CAD,2017-11-10

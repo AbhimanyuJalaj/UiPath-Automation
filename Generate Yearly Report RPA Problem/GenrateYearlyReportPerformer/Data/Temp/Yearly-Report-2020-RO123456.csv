@@ -1,0 +1,10 @@
+﻿InvoiceNumber,Item,Date,Amount,Tax,Total,Currency
+433511,Waste management services,2017-02-26,264164,52832.8,316997,RON
+644281,Beverages and Catering,2017-05-08,61496,12299.2,73795.2,CAD
+848905,Beverages and Catering,2017-05-17,2606,521.2,3127.2,USD
+336177,Waste management services,2017-06-09,131140,26228,157368,USD
+972154,Professional Services,2017-06-18,34365,6873,41238,CAD
+303651,Professional Services,2017-08-28,6332,1266.4,7598.4,CAD
+783448,Beverages and Catering,2017-08-24,22572,4514.4,27086.4,CAD
+865585,Concierge Services,2017-08-27,208254,41650.8,249905,USD
+527210,Various paper supplies,2017-12-09,282860,56572,339432,USD
